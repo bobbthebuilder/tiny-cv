@@ -6,5 +6,5 @@ $(TEXFILE).pdf: $(TEXFILE).tex
     
 .PHONY: clean
 clean:
-	rm -f *.aux *.out *.log *.pdf
+	rm -f *.aux *.out *.log
 	
