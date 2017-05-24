@@ -40,10 +40,6 @@
  \subsection[\#1]{#1 \\ #2 \\ #3 \\ #4 \\ #5}%
 }
 
-\newcommand{\contactinformationsubsection}[3]{%
- \subsection[\#1]{#1 \\ #2 \\ #3}%
-}
-
 \newcommand{\profexperiencesubsection}[7]{%
  \subsection[\#1]{\hspace{-5pt}
   \begin{tabular}{L{3.1cm} l l} #1 & {\scshape #2} #3 \\
