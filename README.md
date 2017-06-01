@@ -3,7 +3,7 @@
 tiny-cv is minimalistic and slim LaTeX template for a Curriculum Vitae / Resume. 
 It is very easy to understand, use and customize.
 
-![Screenshot](cv_crop.png?raw=true)
+![Screenshot](screenshot.png?raw=true)
 
 ## Usage 
 
